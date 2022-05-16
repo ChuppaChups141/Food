@@ -19,7 +19,7 @@ export default Button;
 const styles = StyleSheet.create({
   buttonText: {
     fontWeight: 'bold',
-    fontSize: 16,
+    fontSize: 18,
   },
   buttonContainer: {
     width: width / 1.1,
